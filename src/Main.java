@@ -7,5 +7,6 @@ public class Main {
         // example: (phone, desk, computer,coffee cup)
 
         System.out.println(myCar.color);
+        System.out.println(myCar.make);
     }
 }
