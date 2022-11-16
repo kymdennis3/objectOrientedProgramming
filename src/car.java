@@ -1,6 +1,6 @@
 public class car {
-    String make = " Ford";
-    String model = " Ford";
+    String make = "Ford";
+    String model = "Ford";
     int year = 2021;
     String color = "Brown";
     double price = 4500000.00;
