@@ -9,6 +9,7 @@ public class Main {
         //System.out.println(myCar.color);
         //System.out.println(myCar.make);
 
-        myCar.drive();//called the method drive
+        //myCar.drive();//called the method drive
+        myCar.brake();//calling the method brake()
     }
 }
