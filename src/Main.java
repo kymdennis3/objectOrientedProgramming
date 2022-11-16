@@ -6,7 +6,9 @@ public class Main {
         //object = an instance of a class that may contain attributes and methods
         // example: (phone, desk, computer,coffee cup)
 
-        System.out.println(myCar.color);
-        System.out.println(myCar.make);
+        //System.out.println(myCar.color);
+        //System.out.println(myCar.make);
+
+        myCar.drive();//called the method drive
     }
 }
